@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376628200926",
+    "project_id": "meet-room-2d1b9",
+    "storage_bucket": "meet-room-2d1b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376628200926:android:24e5f89db183a564d4894f",
+        "android_client_info": {
+          "package_name": "com.example.meetroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376628200926-cpt4tq40g8jncuat76rek60r3hd9n20a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meetroom",
+            "certificate_hash": "dc8912be7af254468ef7342e338090043a165655"
+          }
+        },
+        {
+          "client_id": "376628200926-hbjrm30mhslhcvqhp1fj6ijuja8mlktj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBri0futKvsH_y8MWc0dmukcnwGkx4oRIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376628200926-hbjrm30mhslhcvqhp1fj6ijuja8mlktj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
